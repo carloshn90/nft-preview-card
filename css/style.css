@@ -1,0 +1,54 @@
+.attribution { 
+    font-family: outfit;
+    font-size: 11px;
+    font-weight: 300; 
+    text-align: center; 
+    color: hsl(0, 0%, 100%);
+    }
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    }
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: outfit;
+    font-weight: 600;
+}
+p {
+    font-family: outfit;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.nft-card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.nft-card {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+.tagline {
+    color: hsl(0, 0%, 100%);
+}
+
+.time {
+    color: hsl(0, 0%, 100%);
+}
+
+.creator {
+    color: hsl(0, 0%, 100%);
+}
