@@ -97,25 +97,24 @@ h1 {
   }
 
 .avatar {
-    width: 110px;
-    height: 110px;
+    width: 30px;
+    height: 30px;
     position: absolute;
-    top: -8px;
-    right: -25px;
+    top: -9px;
+    left: -9px;
     float: left;
 }
 
 .circle {
     background-color: hsl(0, 0%, 100%);
-    width: 60px;
-    height: 60px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
     position: relative;
     float: left;
 }
 
 .creator {
-    padding: 10px;
 }
 .created-by {
     color: hsl(215, 51%, 70%);
