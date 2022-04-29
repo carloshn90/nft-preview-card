@@ -45,10 +45,17 @@ p {
     color: hsl(215, 51%, 70%);
 }
 
+.levels {
+    color: hsl(178, 100%, 50%);
+}
 .time {
     color: hsl(215, 51%, 70%);
 }
 
 .creator {
     color: hsl(0, 0%, 100%);
+}
+
+.creator-name {
+    color: hsl(0, 0%, 100%)
 }
